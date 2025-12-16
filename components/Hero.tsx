@@ -20,7 +20,7 @@ const Hero: React.FC<HeroProps> = ({ profile, onChatClick }) => {
         <div className="flex-1 text-center md:text-left space-y-6">
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/60 backdrop-blur-sm rounded-full text-green-600 font-semibold shadow-sm border border-green-100">
             <PawPrint className="w-4 h-4" />
-            <span>Cat PAGE</span>
+            <span>Official Homepage</span>
           </div>
           
           <h1 className="text-5xl md:text-7xl font-extrabold text-stone-800 tracking-tight leading-tight">
