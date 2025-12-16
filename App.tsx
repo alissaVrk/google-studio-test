@@ -14,16 +14,16 @@ const WHISKERS_PROFILE: CatProfile = {
   breed: "Ginger Tabby",
   likes: ["Tuna Soufflé", "Sunbeams at 2PM", "Cardboard Boxes", "Judging Guests"],
   dislikes: ["The Vacuum Monster", "Closed Doors", "Diet Kibble", "Baths"],
-  avatarUrl: "https://picsum.photos/id/40/800/800" // Placeholder cat image
+  avatarUrl: "https://loremflickr.com/800/800/cat?lock=99" // Reliable cat image source
 };
 
 const GALLERY_ITEMS: GalleryItem[] = [
-  { id: 1, url: "https://picsum.photos/id/219/600/800", caption: "Hunting the elusive red dot." },
-  { id: 2, url: "https://picsum.photos/id/237/600/800", caption: "I didn't do it. The dog did." },
-  { id: 3, url: "https://picsum.photos/id/433/600/800", caption: "Contemplating the meaning of treats." },
-  { id: 4, url: "https://picsum.photos/id/582/600/800", caption: "King of the castle (sofa)." },
-  { id: 5, url: "https://picsum.photos/id/593/600/800", caption: "Caught mid-sneeze." },
-  { id: 6, url: "https://picsum.photos/id/659/600/800", caption: "Is that... ham?" },
+  { id: 1, url: "https://loremflickr.com/600/800/cat?lock=10", caption: "Hunting the elusive red dot." },
+  { id: 2, url: "https://loremflickr.com/600/800/cat?lock=23", caption: "I didn't do it. The dog did." },
+  { id: 3, url: "https://loremflickr.com/600/800/cat?lock=32", caption: "Contemplating the meaning of treats." },
+  { id: 4, url: "https://loremflickr.com/600/800/cat?lock=41", caption: "King of the castle (sofa)." },
+  { id: 5, url: "https://loremflickr.com/600/800/cat?lock=55", caption: "Caught mid-sneeze." },
+  { id: 6, url: "https://loremflickr.com/600/800/cat?lock=67", caption: "Is that... ham?" },
 ];
 
 function App() {

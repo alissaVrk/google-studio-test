@@ -16,7 +16,7 @@ const Gallery: React.FC<GalleryProps> = ({ items }) => {
             <p className="text-stone-500 max-w-md">A collection of my most photogenic moments, unauthorized candid shots, and evidence of mischief.</p>
           </div>
           <button className="hidden md:flex items-center gap-2 px-6 py-3 bg-white border border-stone-200 rounded-full font-semibold text-stone-700 hover:bg-stone-100 transition mt-4 md:mt-0 shadow-sm">
-            <Instagram className="w-5 h-5" /> Follow on Insta-cat
+            <Instagram className="w-5 h-5" /> Insta-cat
           </button>
         </div>
 
