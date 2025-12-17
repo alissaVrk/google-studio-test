@@ -36,7 +36,7 @@ const Hero: React.FC<HeroProps> = ({ profile, onChatClick }) => {
               onClick={onChatClick}
               className="px-8 py-4 bg-stone-900 text-white rounded-full font-bold text-lg hover:bg-stone-700 transition-colors shadow-lg hover:shadow-xl flex items-center gap-2"
             >
-              This is MEEEEEE
+              This is UUUUUUU
               <PawPrint className="w-5 h-5" />
             </button>
             <button className="px-8 py-4 bg-white text-stone-800 rounded-full font-bold text-lg border border-stone-200 hover:bg-stone-50 transition-colors shadow-md flex items-center gap-2">
